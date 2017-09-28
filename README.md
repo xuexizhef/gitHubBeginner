@@ -52,9 +52,10 @@
 [baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo" 
 
 代码高亮：代码开头和结尾，加数字1左边的三个点
-```<html>
+```
+<html>
     <head></head>
     <body></body>
-  </html>
+</html>
 ```
 
