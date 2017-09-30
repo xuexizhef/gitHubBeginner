@@ -81,5 +81,7 @@ ___
 [baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo" 
 
 
-
+## 基础操作
+### Rename
+settings(tab栏)==>Repository name==>tex框中重命名 Rename按钮提交
 
