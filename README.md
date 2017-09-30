@@ -67,11 +67,9 @@ ___
 --------|-------|  
 内容|内容|  
 
- 
-
-引入图片：
-![图片信息](www.baidu.com/img/bdlogo.gif)
-引用自己git的图片：https://github.com/ 你的用户名 / 你的项目名 / raw / 分支名 / 存放图片的文件夹 / 该文件夹下的图片
+## 引入图片：
+>![图片信息](https://wwwsit.8686c.com/images/v2/common/ico-05.png)
+>>引用自己git的图片：https://github.com/xuexizhef/gitHubBeginner/raw/master/images/select.png
 
 给图片加上超链接：baidu标识符是自己起的，但是上下一定一样
 [![baidu]](http://baidu.com)
